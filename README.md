@@ -21,7 +21,7 @@ pip install bs4
 python execute.py
 ```
 3. 輸入檔案名稱，之後等待。
-4. 把拿到的`output.json`丟去discohook導入，之後做一些細節修改（例如換頭像之類的），綁定`ebhook url`就可以send了！
+4. 把拿到的`output.json`丟去discohook導入，之後做一些細節修改（例如換頭像之類的），綁定`webhook url`就可以send了！
 
 ## 效果預覽
 （之後再補上）
