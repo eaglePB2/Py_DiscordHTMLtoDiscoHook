@@ -1,0 +1,2 @@
+# Py_DiscordHTMLtoDiscoHook
+從discord exporter提取的網頁，然後再經過這程式的轉換成DiscoHook專屬檔案 :D
